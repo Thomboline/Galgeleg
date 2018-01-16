@@ -1,0 +1,20 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="k" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="o" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="p" />
+  </action>
+</keymap>
