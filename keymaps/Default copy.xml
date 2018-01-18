@@ -9,6 +9,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="b" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="o" />
   </action>
